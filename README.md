@@ -1,5 +1,5 @@
-# 💫 About Me:
-[banner](snopy.webp)
+# 
+![banner](snopy.webp)
 🚀 Sobre mí<br>¡Hola! 👋 Soy una estudiante de Ingeniería en Informática, tengo muchas ganas de aprender , me encuentro en un camino constante de crecimiento personal y profesional.<br><br>🌎 Soy de Chile, un país lleno de  desafíos que me motivan a seguir desarrollando habilidades en programación, bases de datos y desarrollo web. Me encanta enfrentar nuevos retos y aprender cada día algo nuevo.<br><br>⚡ Intereses: Desarrollo de software, bases de datos, tecnologías emergentes, y colaboración en proyectos que impulsen el cambio positivo. Estoy convencido de que nunca es tarde para seguir explorando y creando.<br><br>
 
 
